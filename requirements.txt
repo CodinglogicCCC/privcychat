@@ -80,3 +80,4 @@ matplotlib==3.8.3
 langchain_pinecone==0.1.1
 deep-translator==0.1.1
 langdetect==1.0.9
+fuzzywuzzy
